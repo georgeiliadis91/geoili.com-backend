@@ -1,0 +1,19 @@
+{
+  "host": "localhost",
+  "port": "1337",
+  "proxy": {
+    "enabled": true,
+    "ssl": true,
+    "host": "admin.georgeiliadis.com",
+    "port": 443
+  },
+  "autoReload": {
+    "enabled": true
+  },
+  "cron": {
+    "enabled": true
+  },
+  "admin": {
+    "autoOpen": false
+  }
+}

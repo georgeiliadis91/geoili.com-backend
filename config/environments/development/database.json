@@ -1,0 +1,17 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "bookshelf",
+      "settings": {
+        "client": "postgres",
+        "database": "geo",
+        "host": "127.0.0.1",
+        "port": 5432,
+        "username": "geo",
+        "password": "Nr3ko$14"
+      },
+      "options": {}
+    }
+  }
+}

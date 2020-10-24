@@ -1,0 +1,31 @@
+{
+  "kind": "singleType",
+  "collectionName": "social_links",
+  "info": {
+    "name": "Social-links"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "facebook": {
+      "type": "string"
+    },
+    "twitter": {
+      "type": "string"
+    },
+    "github": {
+      "type": "string"
+    },
+    "twitch": {
+      "type": "string"
+    },
+    "youtube": {
+      "type": "string"
+    },
+    "linkedin": {
+      "type": "string"
+    }
+  }
+}
